@@ -3,7 +3,7 @@ Gesture Based Control of 6DOF Mobile Robotic Arm | Python, Ardupilot, OpenCV, me
 
 This project aims at developing a mobile robotic arm, which can be controlled by hand gestures.
 
-We will achieve this through a device camera that will capture the hand gestures accurately.
+This was through a device camera that will capture the hand gestures accurately.
 
 Developing a gesture recognition system that can interpret hand movements captured by the camera can be implemented by opencv library that includes pre-trained models for hand gesture recognition.
 
@@ -13,7 +13,7 @@ This enables the translation of those movements and gestures into commands that 
 
 Basically, map each gesture to the corresponding movement or action that the robotic arm should perform.
 
-We’ll then integrate the gesture control system with the robotic arm hardware by implementing the necessary communication protocol (serial communication , Ethernet) on the Jetson Nano to establish a connection with the robotic arm's control system.
+Then integrated the gesture control system with the robotic arm hardware by implementing the necessary communication protocol (serial communication , Ethernet) on the Jetson Nano to establish a connection with the robotic arm's control system.
 
 *Rover programming
 
@@ -33,4 +33,4 @@ Programmed the servo motors to move the arm in a specific way and angles using S
 
 *Hand gesture recognition
 
-Building a model to recognise hand gestures using Deep Learning Algorithms.
+Built a model to recognise hand gestures using Deep Learning Algorithms.
