@@ -1,6 +1,8 @@
 # Gesture_Controlled_Mobile_Robotic_Arm
 Gesture Based Control of 6DOF Mobile Robotic Arm | Python, Ardupilot, OpenCV, mediapipe, Tensorflow
 
+https://github.com/ShriyaBade/Gesture_Controlled_Mobile_Robotic_Arm/assets/119793647/c96df31d-be3a-4648-a617-93d2cdd9d4d0
+
 This project aims at developing a mobile robotic arm, which can be controlled by hand gestures.
 
 This was through a device camera that will capture the hand gestures accurately.
